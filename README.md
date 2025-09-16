@@ -6,8 +6,8 @@ It analyzes student marks, cleans missing data, calculates totals and grades, an
 ## Dataset
 The dataset is very small and included in the project:
 
-Name,City,Math,Science,English
-Ali,Lahore,85,90,88
+Name,City,Math,Science,English \n
+Ali,Lahore,85,90,88 \n
 Sara,Karachi,92,87,95
 Hassan,Lahore,78,,80
 Ayesha,Islamabad,88,92,89
